@@ -1,0 +1,20 @@
+const COLOR = {
+  BLACK: 0x171525,
+  YELLOW: 0xffe478,
+  BLUE: 0x4da6ff,
+  GREEN: 0x8fde5d, // light green
+  GREEN_2: 0x3ca370,
+  GREEN_3: 0x3d6e70,
+  GREEN_4: 0x323e4f,
+  GRAY: 0x272736,
+  LIGHT_GRAY: 0x43434f,
+  PURPLE: 0x76428a,
+  PINK: 0xd77bba,
+  RED: 0xac3232,
+  PURPLE_2: 0x80366b,
+  PURPLE_3: 0x422445,
+  PURPLE_4: 0x322947,
+  BROWN_PURPLE: 0x964253
+}
+
+export default COLOR
